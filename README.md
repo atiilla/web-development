@@ -50,7 +50,9 @@ Web development is the work involded in developing a web site for the Internet (
 
 **Video Tutorials for Installation and Software configurations:**
 - [Git](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
-- [Node.js](https://www.youtube.com/watch?v=U8XF6AFGqlc)
-- [Install vscode in windows](https://www.youtube.com/watch?v=JPZsB_6yHVo)
-- [Install vscode in mac](https://www.youtube.com/watch?v=E2oA1__0zyY)
-- [Install vscode in linux](https://www.youtube.com/watch?v=rDaqEShUMKU)
+- [Install Node on windows](https://www.youtube.com/watch?v=3F5IaPqj7ds)
+- [Install Node on mac](https://www.youtube.com/watch?v=Ue6g4udgbdI)
+- [Install Node on linux](https://www.youtube.com/watch?v=P6rPI7x28nY)
+- [Install vscode on windows](https://www.youtube.com/watch?v=JPZsB_6yHVo)
+- [Install vscode on mac](https://www.youtube.com/watch?v=E2oA1__0zyY)
+- [Install vscode on linux](https://www.youtube.com/watch?v=rDaqEShUMKU)
