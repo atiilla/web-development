@@ -23,7 +23,8 @@ Web development is the work involded in developing a web site for the Internet (
 - Visual Studio Code [https://code.visualstudio.com/]
 	-  Live Server VSCode Extension: [https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer]
 	-  Live Share VScode Extension: [https://code.visualstudio.com/learn/collaboration/live-share]
-
+- Node.js: [https://nodejs.org/en/download/]
+  
 # Getting Started with Git
 * Download git tool: https://git-scm.com/downloads
 
@@ -46,3 +47,10 @@ Web development is the work involded in developing a web site for the Internet (
 * git add * (or single file which is updated)
 * git commit -m "commit Message"
 * git push -u origin main
+
+**Video Tutorials for Installation and Software configurations:**
+- [Git](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+- [Node.js](https://www.youtube.com/watch?v=U8XF6AFGqlc)
+- [Install vscode in windows](https://www.youtube.com/watch?v=JPZsB_6yHVo)
+- [Install vscode in mac](https://www.youtube.com/watch?v=0y1sYvVWd7Y)
+- [Install vscode in linux](https://www.youtube.com/watch?v=0y1sYvVWd7Y)
