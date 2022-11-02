@@ -1,13 +1,26 @@
 # Introduction to basics of Linux
 
 ## What is Linux?
-```Linux is an open source operating system. It is a free and open source operating system. It is a Unix-like operating system. It is a multi-user operating system. It is a multi-tasking operating system. It is a multi-threaded operating system. It is a multi-processing operating system.```
+Linux is an open source operating system. It is a free and open source operating system. It is a Unix-like operating system. It is a multi-user operating system. It is a multi-tasking operating system. It is a multi-threaded operating system. It is a multi-processing operating system.
 
 ## What distributions of Linux are there?
-```There are many distributions of Linux. Some of the most popular distributions of Linux are Ubuntu, Debian, Fedora, CentOS, and Arch Linux.```
+There are many distributions of Linux. Some of the most popular distributions of Linux are Ubuntu, Debian, Fedora, CentOS, and Arch Linux.
 
 ## What is the difference between Linux and Windows?
-```Linux is an open source operating system. Windows is a proprietary operating system. Linux is a Unix-like operating system. Windows is a Windows-like operating system. Linux is a multi-user operating system. Windows is a single-user operating system. Linux is a multi-tasking operating system. Windows is a single-tasking operating system. Linux is a multi-threaded operating system. Windows is a single-threaded operating system. Linux is a multi-processing operating system. Windows is a single-processing operating system.```
+```
+* Linux is an open source operating system.
+* Windows is a proprietary operating system.
+* Linux is a Unix-like operating system.
+* Windows is a Windows-like operating system.
+* Linux is a multi-user operating system.
+* Windows is a single-user operating system.
+* Linux is a multi-tasking operating system.
+* Windows is a single-tasking operating system.
+* Linux is a multi-threaded operating system.
+* Windows is a single-threaded operating system.
+* Linux is a multi-processing operating system.
+* Windows is a single-processing operating system.
+```
 
 ## Linux as a server
 ```
