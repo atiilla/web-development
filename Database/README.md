@@ -7,6 +7,7 @@ This section contains information about database technologies and tools.
 * [MySQL](MySQL.md)
 * [MariaDB](MariaDB.md)
 * [SQLite](SQLite.md)
+  - [great.db human-friendly database library](https://github.com/tr1ckydev/great.db)
 * [MongoDB](MongoDB.md)
 
 ## Database Tools
