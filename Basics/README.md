@@ -30,5 +30,5 @@
   - [ ] Web APIs
   - [ ] Exercises
 
-
+**Resources**
 - [Learn Javascript Interactive](https://learnjavascript.online/app.html?id=1437)
