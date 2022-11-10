@@ -7,4 +7,3 @@
 - [Your react guide by softchris](https://softchris.github.io/react-book)
 - [React notes for professionals](https://goalkicker.com/ReactJSBook/)
 - [React.js for visual learners](https://leanpub.com/reactjsforthevisuallearner/read#leanpub-auto-chapter-10--reacting-to-what-weve-learned)
-- 
