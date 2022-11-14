@@ -17,6 +17,7 @@ Web development is the work involded in developing a web site for the Internet (
 	- [Express.js](Nodejs/README.md)
     - [MongoDB](Database/README.md)
 - [Deployment](Deployment/README.md)
+- [Exercises](Exercises/README.md)
 
 # Software Requirements
 
